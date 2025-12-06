@@ -16,7 +16,7 @@ updated: 2025-12-04
 ## Definition
 
 - Active management involves making buy and sell decisions about the holdings in a portfolio.
-- Passive management is a strategy that aims to equal the returns of an index.
+- Passive management is a strategy that aims to equal the returns of an index. [[Deferred Revenue]]
 - Active management seeks returns that exceed the performance of the overall markets, to manage risk, increase income, or achieve other investor goals, such as implementing a sustainable investment approach.
 
 ## Strategies for Active Management
