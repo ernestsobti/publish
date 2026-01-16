@@ -1,3 +1,4 @@
+
 ## Ratio 
 
 ### Basic
@@ -650,6 +651,166 @@ $$
 > $$
 > -4:-10 = 2:5
 > $$
+
+
+## Indices 
+
+
+### Basic 
+> Indices (or exponents) are used to express repeated multiplication of the same number.
+
+---
+
+> [!note] Definition  
+> $$
+> 3 \times 3 \times 3 \times 3 = 81
+> $$
+> 
+> This is written as:
+> $$
+> 3^4 = 81
+> $$
+
+- The number which multiplies itself is called the **base**.  
+- The number of times it is multiplied is called the **power** or **index**.  
+- Plural of index is **indices**.
+
+---
+
+> [!note] Zero Index Rule  
+> Any non-zero number raised to the power zero is equal to 1.
+> $$
+> a^0 = 1 \quad (a \neq 0)
+> $$
+
+> **Reason (intuition):**
+> $$
+> \frac{a^m}{a^m} = a^{m-m} = a^0 = 1
+> $$
+
+---
+
+> [!note] Roots in Index Form  
+> Roots can be written using fractional indices.
+
+$$
+\sqrt{a} = a^{1/2}
+$$
+
+$$
+\sqrt[3]{a} = a^{1/3}
+$$
+
+$$
+\sqrt[4]{a} = a^{1/4}
+$$
+
+---
+
+> [!note] Illustration  
+> $$
+> \sqrt{9} = 9^{1/2}
+> $$
+> 
+> $$
+> \sqrt[3]{9} = 9^{1/3}
+> $$
+> 
+> $$
+> \sqrt[4]{9} = 9^{1/4}
+> $$
+
+### Fractional Exponent — Reverse Idea
+
+> Fractional exponents can be understood by **rewriting the number as a power**.
+
+---
+
+> [!note] Key Idea  
+> If
+> $$
+> a^n = b
+> $$
+> then
+> $$
+> a = b^{1/n}
+> $$
+
+
+
+> [!NOTE] Illustration
+> 
+> $$
+> 3^4 = 81 \;\Rightarrow\; 3 = 81^{1/4}
+> $$
+> 
+> $$
+> 4^2 = 16 \;\Rightarrow\; 4 = 16^{1/2}
+> $$
+> 
+
+
+### Law 1 — Product of Powers  
+
+> If two terms with the same base are multiplied, add the powers.
+
+$$
+a^m \times a^n = a^{m+n}
+$$
+
+> [!note] Illustration  
+> $$
+> 2^3 \times 2^4 = 2^{3+4} = 2^7 = 128
+> $$
+> $$
+> 8 \times 16 = 128
+> $$
+
+---
+
+### Law 2 — Quotient of Powers  
+
+> If two terms with the same base are divided, subtract the powers.
+
+$$
+\frac{a^m}{a^n} = a^{m-n}
+$$
+
+> [!note] Illustration  
+> $$
+> \frac{2^5}{2^3} = 2^{5-3} = 2^2 = 4
+> $$
+
+---
+
+### Law 3 — Power of a Power  
+
+> If a term having power is raised to another power, multiply the powers.
+
+$$
+(a^m)^n = a^{mn}
+$$
+
+> [!note] Illustration  
+> $$
+> (2^3)^4 = 2^{12} = 4096
+> $$
+
+---
+
+### Law 4 — Power of a Product  
+
+> If a product of terms is raised to a power, apply the power to each term.
+
+$$
+(ab)^n = a^n b^n
+$$
+
+> [!note] Illustration  
+> $$
+> (2 \times 3)^4 = 2^4 \times 3^4 = 16 \times 81 = 1296
+> $$
+
 
 
 ## Logarithm
