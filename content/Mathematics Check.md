@@ -27,8 +27,10 @@ $$
 The first two quantities ($a:b$) should be of the same kind and last two quantities ($c:d$) should be of the same kind. 
 
 
-> [!question] Title
-> Contents
+> [!note] Illustration
+>  $₹6 : ₹8 = 12 toffes : 16 toffees$ are in proportion.
+
+
 
 
 
@@ -71,14 +73,11 @@ $b=$ is mean proportional (because $b$ is $GM$ of $a$ and $b$)
 > 
 
 
-A person opened an account on April, 2011 with a deposit of ₹800. The account paid 6% interest compounded quarterly. On October 1, 2011 he closed the account and added enough additional money to invest in a 6 month time-deposit for ₹1,000, earning 6% compounded monthly.
 
 
-> [!premium] Premium
-> A person opened an account on April, 2011 with a deposit of ₹800. The account paid 6% interest compounded quarterly. On October 1, 2011 he closed the account and added enough additional money to invest in a 6 month time-deposit for ₹1,000, earning 6% compounded monthly.
->
+
+> [!note] Illustration 
 > Find the mean proportion between 1.25 and 1.8.
->
 > $$
 > b = \sqrt{a \times c}
 > $$
@@ -94,61 +93,47 @@ A person opened an account on April, 2011 with a deposit of ₹800. The account 
 
 
 
-
-> [!creative] Creative
-> A person opened an account on April, 2011 with a deposit of ₹800. The account paid 6% interest compounded quarterly. On October 1, 2011 he closed the account and added enough additional money to invest in a 6 month time-deposit for ₹1,000, earning 6% compounded monthly.
->
-> Find the mean proportion between 1.25 and 1.8.
->
+> [!NOTE] Illustration 
+>The mean proportional between $12x^2$ and $27y^2$ is
 > $$
-> b = \sqrt{a \times c}
-> $$
->
-> $$
-> b = \sqrt{1.25 \times 1.8}
-> $$
->
-> $$
-> b = 1.5
-> $$
-
-
-> [!illustration] 
-> A person opened an account on April, 2011 with a deposit of ₹800. The account paid 6% interest compounded quarterly. On October 1, 2011 he closed the account and added enough additional money to invest in a 6 month time-deposit for ₹1,000, earning 6% compounded monthly.
-> 
-> $\text{Find the mean proportion between } 1.25 \text{ and } 1.8$
-> $$
-> b = \sqrt{a \times c}
+> b = \sqrt{12x^2 \times 27y^2}
 > $$
 > 
 > $$
-> b = \sqrt{1.25 \times 1.8}
+> = \sqrt{324x^2y^2}
 > $$
 > 
 > $$
-> b = 1.5
+> = 18xy
+> $$
+> 
+> 
+> 
+
+> [!note] Illustration 
+> Find the third proportion to 2.4 kg and 9.6 kg.
+> $$
+> \frac{a}{b} = \frac{b}{c}
+> $$
+> 
+> $$
+> \frac{2.4}{9.6} = \frac{9.6}{c}
+> $$
+> 
+> $$
+> c = \frac{9.6 \times 9.6}{2.4}
+> $$
+> 
+> $$
+> c = 38.4 \text{ kg}
 > $$
 > 
 > 
 
 
 
-> [!grey] Grey
-> A person opened an account on April, 2011 with a deposit of ₹800. The account paid 6% interest compounded quarterly. On October 1, 2011 he closed the account and added enough additional money to invest in a 6 month time-deposit for ₹1,000, earning 6% compounded monthly.
->
-> Find the mean proportion between 1.25 and 1.8.
->
-> $$
-> b = \sqrt{a \times c}
-> $$
->
-> $$
-> b = \sqrt{1.25 \times 1.8}
-> $$
->
-> $$
-> b = 1.5
-> $$
+
+
 ### Properties of Proportion 
 
 1. Invertendo
@@ -169,7 +154,7 @@ $$
 b:a = d:c
 $$
 
-> [!question] Illustration
+> [!note] Illustration
 > $$
 > \frac{2}{5}=\frac{6}{15}\Rightarrow\frac{5}{2}=\frac{15}{6}
 > $$
@@ -180,106 +165,379 @@ $$
 
 ### Alternendo 
 
-> If $a:b=c:d$, then 
+>In Alternendo, you compare the alternate terms.  If $a:b=c:d$, then 
 
 $$
 a:c=b:d
 $$
 
 
+
 > [!NOTE] Illustration
 > 
-
-
-
-## Ratio 
-
-A ratio is a <u>comparison of the sizes of two or more quantities</u> of the <u>same kind</u> by division.
-
-$$
-a:b
-$$
-
-- $a$ is called the first term or <u>antecedent</u> 
-- $b$ is called the second term or <u>consequent</u> 
-
-
-
-## Features of Ratio 
-
-
-> [!info] Both terms of a ratio can be multiplied or divided by the same non-zero number.
-
-
-
-
-> [!info] The order of the terms in ratio is important. 
-> 
-
-
-
-> [!info] Ratio exists only between quantities of the same kind. 
-
-
-
-> [!info] Quantities to be compared (by division) must be in the same units.
-
-
-> [!info] To compare two ratios, convert them into equivalent like fractions.
-
-
-
-> [!info] Factor Multiplying Ratio
->  If a quantity increases or decreases in the ratio $a : b$,
-> 
 > $$
-> \text{new quantity} = \frac{b}{a} \times \text{original quantity}
+> \frac{2}{5}=\frac{6}{15}\Rightarrow\frac{2}{6}=\frac{5}{15}
 > $$
 > 
-> The fraction $\frac{b}{a}$ by which the original quantity is multiplied to get the new quantity is called the <u>factor multiplying ratio.</u> 
+> $$
+> 2:5::6:15\Rightarrow2:6::5:15
+> $$
+
+
+
+
+### Componendo
+
+> In Componendo, you add the antecedent and consequent of each ratio.  
+> If $a:b=c:d$, then
+
+$$
+\frac{a+b}{b}=\frac{c+d}{d}
+$$
+
+
+> [!important] Deriviation : Proof of Componendo
 > 
+> Start with a proportion:
+> $$
+> a:b=c:d
+> $$
+> 
+> Rewrite in fraction form:
+> $$
+> \frac{a}{b}=\frac{c}{d}
+> $$
+> 
+> Add 1 to both sides:
+> $$
+> \frac{a}{b}+1=\frac{c}{d}+1
+> $$
+> 
+> Which gives:
+> $$
+> \frac{a+b}{b}=\frac{c+d}{d}
+> $$
+
+
+> [!NOTE] Illustration
+>
+> Given:
+>
+> $$
+> 2:5 = 6:15
+> $$
+>
+> Apply Componendo:
+>
+> $$
+> \frac{2+5}{5} = \frac{6+15}{15}
+> $$
+>
+> $$
+> 7:5 = 21:15
+> $$
+
+
+### Dividendo
+
+> In Dividendo, you subtract the consequent from the antecedent of each ratio.  
+> If $a:b=c:d$, then
+
+$$
+\frac{a-b}{b}=\frac{c-d}{d}
+$$
+
+
+> [!important] Derivation : Proof of Dividendo
+> 
+> Start with a proportion:
+> $$
+> a:b=c:d
+> $$
+> 
+> Rewrite in fraction form:
+> $$
+> \frac{a}{b}=\frac{c}{d}
+> $$
+> 
+> Subtract 1 from both sides:
+> $$
+> \frac{a}{b}-1=\frac{c}{d}-1
+> $$
+> 
+> Which gives:
+> $$
+> \frac{a-b}{b}=\frac{c-d}{d}
+> $$
+
+
+> [!NOTE] Illustration
+>
+> Given:
+>
+> $$
+> 2:5 = 6:15
+> $$
+>
+> Apply Dividendo:
+>
+> $$
+> \frac{2-5}{5} = \frac{6-15}{15}
+> $$
+>
+> $$
+> -3:5 = -9:15
+> $$
+
+
+### Componendo & Dividendo
+
+> In Componendo & Dividendo, you add and subtract the consequent from the antecedent of each ratio.  
+> If $a:b=c:d$, then
+
+$$
+\frac{a+b}{a-b}=\frac{c+d}{c-d}
+$$
+
+
+> [!important] Derivation : Proof of Componendo & Dividendo
+> 
+> Start with a proportion:
+> $$
+> a:b=c:d
+> $$
+> 
+> Rewrite in fraction form:
+> $$
+> \frac{a}{b}=\frac{c}{d}
+> $$
+> 
+> Add 1 to both sides:
+> $$
+> \frac{a}{b}+1=\frac{c}{d}+1
+> $$
+> 
+> Subtract 1 from both sides:
+> $$
+> \frac{a}{b}-1=\frac{c}{d}-1
+> $$
+> 
+> Divide the two results:
+> $$
+> \frac{\frac{a}{b}+1}{\frac{a}{b}-1}
+> =
+> \frac{\frac{c}{d}+1}{\frac{c}{d}-1}
+> $$
+> 
+> Which gives:
+> $$
+> \frac{a+b}{a-b}=\frac{c+d}{c-d}
+> $$
+
+
+> [!NOTE] Illustration
+>
+> Given:
+>
+> $$
+> 2:5 = 6:15
+> $$
+>
+> Apply Componendo & Dividendo:
+>
+> $$
+> \frac{2+5}{2-5} = \frac{6+15}{6-15}
+> $$
+>
+> $$
+> 7:(-3) = 21:(-9)
+> $$
 
 
 
 
-## Properties of Ratio
+### Addendo
 
+> In Addendo, you add the corresponding terms of the ratios.  
+> If $a:b=c:d$, then
 
-> [!info] Inverse Ratio
-
-
-
-
-
-> [!info] Compound Ratio
-
-
-
-> [!info] Duplicate Ratio and Triplicate Ratio 
+$$
+\frac{a+c+e+\ldots}{b+d+f+\ldots}=k
+$$
 
 
 
-> [!info] Sub-duplicate and Sub-triplicate ratio 
+> [!important] Derivation : Proof of Addendo
+> 
+> Start with a proportion:
+> $$
+> a:b=c:d
+> $$
+> 
+> Rewrite in fraction form:
+> $$
+> \frac{a}{b}=\frac{c}{d}
+> $$
+> 
+> Cross-multiply:
+> $$
+> ad=bc
+> $$
+> 
+> Add $ad$ and $bc$ on both sides:
+> $$
+> ad+bc=bc+ad
+> $$
+> 
+> Factor both sides:
+> $$
+> a(d+c)=c(b+d)
+> $$
+> 
+> Divide both sides by $(b+d)(d+c)$:
+> $$
+> \frac{a+c}{b+d}=\frac{a}{b}=\frac{c}{d}
+> $$
+
+
+> [!NOTE] Illustration
+>
+> Given:
+>
+> $$
+> 2:5 = 6:15
+> $$
+>
+> Apply Addendo:
+>
+> $$
+> \frac{2+6}{5+15}
+> $$
+>
+> $$
+> 8:20 = 2:5
+> $$
+
+### Subtrahendo
+
+> In Subtrahendo, you subtract the corresponding terms of the ratios.  
+> If $a:b=c:d$, then
+
+$$
+\frac{a-c-e-\ldots}{b-d-f-\ldots}=k
+$$
+
+
+
+> [!important] Derivation : Proof of Subtrahendo
+> 
+> Start with a proportion:
+> $$
+> a:b=c:d
+> $$
+> 
+> Rewrite in fraction form:
+> $$
+> \frac{a}{b}=\frac{c}{d}
+> $$
+> 
+> Cross-multiply:
+> $$
+> ad=bc
+> $$
+> 
+> Subtract $bc$ from both sides:
+> $$
+> ad-bc=0
+> $$
+> 
+> Factor the terms:
+> $$
+> a(d-c)=c(b-d)
+> $$
+> 
+> Divide both sides by $(b-d)(d-c)$:
+> $$
+> \frac{a-c}{b-d}=\frac{a}{b}=\frac{c}{d}
+> $$
+
+
+> [!NOTE] Illustration
+>
+> Given:
+>
+> $$
+> 2:5 = 6:15
+> $$
+>
+> Apply Subtrahendo:
+>
+> $$
+> \frac{2-6}{5-15}
+> $$
+>
+> $$
+> -4:-10 = 2:5
+> $$
+
+
+
+## Question 
 
 
 
 
 
 
-> [!info] Commensurable and incommensurable quantities 
+
+### 1. If $p:q = r:s = 2.5:1.5$, find the value of $ps:qr$.
+
+> [!NOTE]- Solution
+>
+> $$
+> \frac{p}{q}=\frac{r}{s}=\frac{2.5}{1.5}
+> $$
+>
+> $$
+> ps = qr
+> $$
+>
+> $$
+> \frac{ps}{qr}=1
+> $$
+>
+> $$
+> ps:qr = 1:1
+> $$
 
 
 
-> [!info] Continued Ratio 
+## Question 
 
 
 
 
+### Proportion 
 
 
+#### Q1 
+If $p:q = r:s = 2.5:1.5$, find the value of $ps:qr$.
 
-
-
-
-
+> [!NOTE]- Solution
+>
+> $$
+> \frac{p}{q}=\frac{r}{s}=\frac{2.5}{1.5}
+> $$
+>
+> $$
+> ps = qr
+> $$
+>
+> $$
+> \frac{ps}{qr}=1
+> $$
+>
+> $$
+> ps:qr = 1:1
+> $$
 
