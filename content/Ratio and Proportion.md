@@ -3738,3 +3738,5 @@ If $A:B = 3:4$, $B:C = 7:9$, $C:D = 2:3$, and $D$ is 50% more than $E$, find the
 
 
 
+
+
